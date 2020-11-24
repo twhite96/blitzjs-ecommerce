@@ -1,0 +1,4 @@
+# Prisma Migrate lockfile v1
+
+20201116174325-initial-migration
+20201124005634-to-postgres
